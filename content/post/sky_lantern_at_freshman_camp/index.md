@@ -1,7 +1,7 @@
 ---
 title: 大一迎新宿營放天燈
 date: '2009-10-20'
-categories:
+tags:
   - 回憶
 ---
 

@@ -1,6 +1,6 @@
 baseURL = "https://hsinjungwu.github.io/talks" # please update this to your actual URL
 languageCode = "en-us"
-title = "Frankly Speaking"
+title = "廢文集"
 theme = "hugo-xmin"
 disqusShortname = ""
 ignoreFiles = []
@@ -22,14 +22,13 @@ name = "Categories"
 url = "categories/"
 weight = 3
 
-# [[menu.main]]
-# name = "Tags"
-# url = "tags/"
-# weight = 4
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 4
 
 [params]
-description = "A website built through Hugo and [hugo-xmin](https://github.com/yihui/hugo-xmin/)"
-footer = "&copy; FR4NK 2000 -- {Year}"
+footer = "A blog built with [Hugo](https://gohugo.io/) and the [hugo-xmin](https://github.com/yihui/hugo-xmin/) theme <br> &copy; 我 2000 -- {Year}"
 
 [markup]
 [markup.highlight]

@@ -1,8 +1,9 @@
 ---
 title: 人生第一場演唱會
 date: '2012-10-20'
-categories:
+tags:
   - 紀念日
+  - 演唱會
 ---
 
 [伍佰 and ChinaBlue](https://zh.wikipedia.org/zh-tw/%E4%BC%8D%E4%BD%B0%26China_Blue) 大感謝演唱會高雄場是我人生第一場演唱會。
